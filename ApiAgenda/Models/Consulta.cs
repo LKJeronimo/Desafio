@@ -15,7 +15,7 @@ namespace ApiAgenda.Models
 
         public string Observacao { get; set; }
 
-        public Paciente Paciente { get; set; }
+        //public Paciente Paciente { get; set; }
 
         public int PacienteId { get; set; }
     }
